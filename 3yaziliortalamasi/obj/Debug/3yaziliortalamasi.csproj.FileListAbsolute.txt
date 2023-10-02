@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\3yaziliortalamasi\3yaziliortalamasi\bin\Debug\3yaziliortalamasi.exe.config
+C:\Users\User\source\repos\3yaziliortalamasi\3yaziliortalamasi\bin\Debug\3yaziliortalamasi.exe
+C:\Users\User\source\repos\3yaziliortalamasi\3yaziliortalamasi\bin\Debug\3yaziliortalamasi.pdb
+C:\Users\User\source\repos\3yaziliortalamasi\3yaziliortalamasi\obj\Debug\3yaziliortalamasi.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\3yaziliortalamasi\3yaziliortalamasi\obj\Debug\3yaziliortalamasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\3yaziliortalamasi\3yaziliortalamasi\obj\Debug\_3yaziliortalamasi.Form1.resources
+C:\Users\User\source\repos\3yaziliortalamasi\3yaziliortalamasi\obj\Debug\_3yaziliortalamasi.Properties.Resources.resources
+C:\Users\User\source\repos\3yaziliortalamasi\3yaziliortalamasi\obj\Debug\3yaziliortalamasi.csproj.GenerateResource.cache
+C:\Users\User\source\repos\3yaziliortalamasi\3yaziliortalamasi\obj\Debug\3yaziliortalamasi.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\3yaziliortalamasi\3yaziliortalamasi\obj\Debug\3yaziliortalamasi.exe
+C:\Users\User\source\repos\3yaziliortalamasi\3yaziliortalamasi\obj\Debug\3yaziliortalamasi.pdb
